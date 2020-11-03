@@ -1,0 +1,15 @@
+{
+  "name": "changed-property",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "typescript": "^4.0.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "nodemon dist/index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
